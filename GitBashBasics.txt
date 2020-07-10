@@ -1,0 +1,24 @@
+# Simple Programming language
+
+
+Advantages of command line:
+
+1. only or best option for some technologies
+
+2. graphical interfaces sometime hide important details
+
+3. a lot of online help uses commaand line syntax
+
+2 types of shells --> graphical or text only
+
+Git source control
+
+Bash shell environment in Windows
+
+pwd, cd, cat, less, mkdir, rmdir, rm -rf(force delete everything specified)
+mv- to rename and move files
+touch - create new files or update timestamp of existing files
+notepad++ .bashrc --> create shortcuts
+
+
+!this is sample repo
