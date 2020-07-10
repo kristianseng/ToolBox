@@ -48,8 +48,6 @@ git push origin master
 
 
 
-
-
 git status
 git diff readme.md
 
